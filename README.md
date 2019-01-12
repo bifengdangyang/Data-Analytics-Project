@@ -1,3 +1,3 @@
 # cici
-projects/homework in practical optimaztion course
+projects/homework in practical optimaztion, statistics graphic course
 
