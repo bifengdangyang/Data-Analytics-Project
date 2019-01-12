@@ -1,2 +1,3 @@
 # cici
-projects
+projects/homework in practical optimaztion course
+
