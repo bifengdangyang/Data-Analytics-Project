@@ -1,0 +1,35 @@
+\ Model _copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Maximize
+ 
+Subject To
+ 02_TeamOncePerWeek_17_NO: playornot_NO_ATL_17_SUNE_FOX
+   + playornot_NO_ATL_17_SUNL_FOX + playornot_NO_ATL_17_SUND_FOX
+   + playornot_NO_CAR_17_SUNE_FOX + playornot_NO_CAR_17_SUNL_FOX
+   + playornot_NO_TB_17_SUNE_FOX + playornot_NO_TB_17_SUNL_FOX
+   + playornot_ATL_NO_17_SUNE_FOX + playornot_ATL_NO_17_SUNL_FOX
+   + playornot_ATL_NO_17_SUND_FOX + playornot_TB_NO_17_SUNE_FOX
+   + playornot_TB_NO_17_SUNL_FOX + playornot_CAR_NO_17_SUNE_FOX
+   + playornot_CAR_NO_17_SUNL_FOX = 1
+ 19_ifNotdivmemNo17_NO_ATL: playornot_NO_ATL_17_SUNE_FOX
+   + playornot_NO_ATL_17_SUNL_FOX + playornot_NO_ATL_17_SUND_FOX = 0
+ 19_ifNotdivmemNo17_NO_TB: playornot_NO_TB_17_SUNE_FOX
+   + playornot_NO_TB_17_SUNL_FOX = 0
+ 19_ifNotdivmemNo17_NO_CAR: playornot_NO_CAR_17_SUNE_FOX
+   + playornot_NO_CAR_17_SUNL_FOX = 0
+ 19_ifNotdivmemNo17_ATL_NO: playornot_ATL_NO_17_SUNE_FOX
+   + playornot_ATL_NO_17_SUNL_FOX + playornot_ATL_NO_17_SUND_FOX = 0
+ 19_ifNotdivmemNo17_TB_NO: playornot_TB_NO_17_SUNE_FOX
+   + playornot_TB_NO_17_SUNL_FOX = 0
+ 19_ifNotdivmemNo17_CAR_NO: playornot_CAR_NO_17_SUNE_FOX
+   + playornot_CAR_NO_17_SUNL_FOX = 0
+Bounds
+Binaries
+ playornot_NO_ATL_17_SUNE_FOX playornot_NO_ATL_17_SUNL_FOX
+ playornot_NO_ATL_17_SUND_FOX playornot_NO_CAR_17_SUNE_FOX
+ playornot_NO_CAR_17_SUNL_FOX playornot_NO_TB_17_SUNE_FOX
+ playornot_NO_TB_17_SUNL_FOX playornot_ATL_NO_17_SUNE_FOX
+ playornot_ATL_NO_17_SUNL_FOX playornot_ATL_NO_17_SUND_FOX
+ playornot_TB_NO_17_SUNE_FOX playornot_TB_NO_17_SUNL_FOX
+ playornot_CAR_NO_17_SUNE_FOX playornot_CAR_NO_17_SUNL_FOX
+End
