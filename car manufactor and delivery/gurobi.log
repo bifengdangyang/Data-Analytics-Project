@@ -1,0 +1,2615 @@
+
+Gurobi 8.0.1 (win64, Python) logging started 10/04/18 11:57:11
+
+Academic license - for non-commercial use only
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 180 rows, 5890 columns and 5890 nonzeros
+Model has 155 quadratic constraints
+Variable types: 465 continuous, 5425 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve time: 0.07s
+Presolved: 1265 rows, 6355 columns, 35185 nonzeros
+Variable types: 930 continuous, 5425 integer (5425 binary)
+Found heuristic solution: objective 3.035231e+08
+
+Root relaxation: objective 2.966041e+08, 3666 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9660e+08    0    9 3.0352e+08 2.9660e+08  2.28%     -    0s
+H    0     0                    2.966234e+08 2.9660e+08  0.01%     -    0s
+
+Explored 1 nodes (3666 simplex iterations) in 0.36 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.96623e+08 3.03523e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.966234051756e+08, best bound 2.966040938122e+08, gap 0.0065%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 180 rows, 5890 columns and 5890 nonzeros
+Model has 155 quadratic constraints
+Variable types: 465 continuous, 5425 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve time: 0.06s
+Presolved: 1265 rows, 6355 columns, 35185 nonzeros
+Variable types: 930 continuous, 5425 integer (5425 binary)
+Found heuristic solution: objective 3.035231e+08
+
+Root relaxation: objective 2.966041e+08, 3666 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9660e+08    0    9 3.0352e+08 2.9660e+08  2.28%     -    0s
+H    0     0                    2.966234e+08 2.9660e+08  0.01%     -    0s
+
+Explored 1 nodes (3666 simplex iterations) in 0.53 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.96623e+08 3.03523e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.966234051756e+08, best bound 2.966040938122e+08, gap 0.0065%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 180 rows, 5890 columns and 5890 nonzeros
+Model has 155 quadratic constraints
+Variable types: 465 continuous, 5425 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve time: 0.02s
+Presolved: 1265 rows, 6355 columns, 35185 nonzeros
+Variable types: 930 continuous, 5425 integer (5425 binary)
+Found heuristic solution: objective 3.031731e+08
+
+Root relaxation: objective 2.962541e+08, 3317 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9625e+08    0    9 3.0317e+08 2.9625e+08  2.28%     -    0s
+H    0     0                    2.962734e+08 2.9625e+08  0.01%     -    0s
+
+Explored 1 nodes (3317 simplex iterations) in 0.45 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.96273e+08 3.03173e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.962734051756e+08, best bound 2.962540938122e+08, gap 0.0065%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 180 rows, 5890 columns and 5890 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1017 rows, 6107 columns, 34441 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+Found heuristic solution: objective 3.215466e+08
+Found heuristic solution: objective 3.048136e+08
+
+Root relaxation: objective 2.962541e+08, 3016 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9625e+08    0   22 3.0481e+08 2.9625e+08  2.81%     -    0s
+H    0     0                    2.962734e+08 2.9625e+08  0.01%     -    0s
+
+Explored 1 nodes (3031 simplex iterations) in 0.28 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 2.96273e+08 3.04814e+08 3.21547e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.962734051756e+08, best bound 2.962540938122e+08, gap 0.0065%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.45 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.43 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.51 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.53 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.48 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.52 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.51 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.45 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.35 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.52 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.34 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.42 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.52 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.44 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.44 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.34 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.42 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.41 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.04s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.16 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.38 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.50 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.49 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.49 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/04/18 16:26:57
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [1e+04, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.13s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 2.963482e+08, 3358 iterations, 0.16 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2.9635e+08    0   22          - 2.9635e+08      -     -    0s
+H    0     0                    2.963765e+08 2.9635e+08  0.01%     -    0s
+
+Explored 1 nodes (3360 simplex iterations) in 0.57 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 2.96377e+08 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.963765135307e+08, best bound 2.963482101585e+08, gap 0.0095%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/05/18 22:10:29
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.14s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    1s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    1s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    1s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    1s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    1s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    1s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    1s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    1s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    2s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    2s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 2.23 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/07/18 10:39:58
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.11s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.47 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.42 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.37 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.23 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 211 rows, 5890 columns and 11780 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1048 rows, 6107 columns, 40207 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2353 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.651778e+08 3.3807e+08  7.42%     -    0s
+H    0     0                    3.439223e+08 3.3807e+08  1.70%     -    0s
+H    0     0                    3.436553e+08 3.3807e+08  1.63%     -    0s
+H    0     0                    3.430781e+08 3.3807e+08  1.46%     -    0s
+H    0     0                    3.424379e+08 3.3807e+08  1.28%     -    0s
+     0     0 3.3835e+08    0  186 3.4244e+08 3.3835e+08  1.19%     -    0s
+H    0     0                    3.424279e+08 3.3835e+08  1.19%     -    0s
+H    0     0                    3.420959e+08 3.3835e+08  1.10%     -    0s
+H    0     0                    3.419115e+08 3.3835e+08  1.04%     -    0s
+     0     0 3.3873e+08    0  220 3.4191e+08 3.3873e+08  0.93%     -    0s
+H    0     0                    3.410293e+08 3.3873e+08  0.67%     -    0s
+     0     0 3.3875e+08    0  205 3.4103e+08 3.3875e+08  0.67%     -    0s
+     0     0 3.3879e+08    0  210 3.4103e+08 3.3879e+08  0.66%     -    0s
+     0     0 3.3886e+08    0  174 3.4103e+08 3.3886e+08  0.64%     -    0s
+H    0     0                    3.407733e+08 3.3886e+08  0.56%     -    1s
+     0     0 3.3886e+08    0  174 3.4077e+08 3.3886e+08  0.56%     -    1s
+     0     0 3.3886e+08    0  169 3.4077e+08 3.3886e+08  0.56%     -    1s
+     0     0 3.3886e+08    0  105 3.4077e+08 3.3886e+08  0.56%     -    1s
+H    0     0                    3.395513e+08 3.3886e+08  0.20%     -    1s
+H    0     0                    3.395493e+08 3.3886e+08  0.20%     -    1s
+     0     0 3.3888e+08    0   22 3.3955e+08 3.3888e+08  0.20%     -    1s
+H    0     0                    3.389446e+08 3.3888e+08  0.02%     -    1s
+     0     0 3.3888e+08    0   32 3.3894e+08 3.3888e+08  0.02%     -    1s
+H    0     0                    3.389419e+08 3.3888e+08  0.02%     -    1s
+     0     0 3.3888e+08    0   32 3.3894e+08 3.3888e+08  0.02%     -    1s
+H    0     0                    3.388813e+08 3.3888e+08  0.00%     -    1s
+
+Explored 1 nodes (3301 simplex iterations) in 1.32 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.38942e+08 3.38945e+08 ... 3.42428e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388793655246e+08, gap 0.0006%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.43 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/09/18 09:26:02
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.12s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.54 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.09s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 1.20 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    0s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    0s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5088 simplex iterations) in 0.83 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/09/18 22:55:20
+
+Academic license - for non-commercial use only
+Optimize a model with 240 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.09s
+Presolved: 1077 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.361165e+08, 2247 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3612e+08    0   64          - 3.3612e+08      -     -    0s
+H    0     0                    3.705430e+08 3.3612e+08  9.29%     -    0s
+     0     0 3.3755e+08    0  378 3.7054e+08 3.3755e+08  8.90%     -    0s
+H    0     0                    3.552506e+08 3.3755e+08  4.98%     -    0s
+     0     0 3.3758e+08    0  367 3.5525e+08 3.3758e+08  4.97%     -    0s
+H    0     0                    3.515975e+08 3.3758e+08  3.99%     -    0s
+     0     0 3.3762e+08    0  384 3.5160e+08 3.3762e+08  3.98%     -    0s
+H    0     0                    3.508915e+08 3.3762e+08  3.78%     -    0s
+H    0     0                    3.485609e+08 3.3762e+08  3.14%     -    0s
+     0     0 3.3845e+08    0  389 3.4856e+08 3.3845e+08  2.90%     -    0s
+     0     0 3.3862e+08    0  389 3.4856e+08 3.3862e+08  2.85%     -    1s
+     0     0 3.3866e+08    0  390 3.4856e+08 3.3866e+08  2.84%     -    1s
+     0     0 3.3872e+08    0  392 3.4856e+08 3.3872e+08  2.82%     -    1s
+     0     0 3.3882e+08    0  408 3.4856e+08 3.3882e+08  2.80%     -    1s
+     0     0 3.3882e+08    0  409 3.4856e+08 3.3882e+08  2.79%     -    1s
+     0     0 3.3927e+08    0  404 3.4856e+08 3.3927e+08  2.66%     -    1s
+     0     0 3.3937e+08    0  415 3.4856e+08 3.3937e+08  2.64%     -    1s
+     0     0 3.3938e+08    0  418 3.4856e+08 3.3938e+08  2.63%     -    1s
+     0     0 3.3938e+08    0  420 3.4856e+08 3.3938e+08  2.63%     -    1s
+     0     0 3.3938e+08    0  420 3.4856e+08 3.3938e+08  2.63%     -    1s
+     0     0 3.3970e+08    0  544 3.4856e+08 3.3970e+08  2.54%     -    1s
+     0     0 3.3979e+08    0  556 3.4856e+08 3.3979e+08  2.52%     -    1s
+     0     0 3.3982e+08    0  631 3.4856e+08 3.3982e+08  2.51%     -    1s
+     0     0 3.3983e+08    0  649 3.4856e+08 3.3983e+08  2.50%     -    1s
+     0     0 3.3984e+08    0  662 3.4856e+08 3.3984e+08  2.50%     -    1s
+     0     0 3.3984e+08    0  669 3.4856e+08 3.3984e+08  2.50%     -    1s
+     0     0 3.3984e+08    0  671 3.4856e+08 3.3984e+08  2.50%     -    1s
+     0     0 3.4015e+08    0  664 3.4856e+08 3.4015e+08  2.41%     -    1s
+     0     0 3.4023e+08    0  659 3.4856e+08 3.4023e+08  2.39%     -    1s
+     0     0 3.4025e+08    0  738 3.4856e+08 3.4025e+08  2.39%     -    1s
+     0     0 3.4025e+08    0  695 3.4856e+08 3.4025e+08  2.38%     -    1s
+     0     0 3.4026e+08    0  719 3.4856e+08 3.4026e+08  2.38%     -    1s
+     0     0 3.4026e+08    0  726 3.4856e+08 3.4026e+08  2.38%     -    1s
+     0     0 3.4027e+08    0  691 3.4856e+08 3.4027e+08  2.38%     -    1s
+     0     0 3.4027e+08    0  693 3.4856e+08 3.4027e+08  2.38%     -    1s
+H    0     0                    3.461258e+08 3.4027e+08  1.69%     -    1s
+H    0     0                    3.452567e+08 3.4027e+08  1.44%     -    1s
+H    0     0                    3.448181e+08 3.4027e+08  1.32%     -    1s
+H    0     0                    3.441439e+08 3.4027e+08  1.13%     -    1s
+     0     0 3.4045e+08    0  629 3.4414e+08 3.4045e+08  1.07%     -    1s
+H    0     0                    3.439553e+08 3.4045e+08  1.02%     -    1s
+     0     0 3.4051e+08    0  656 3.4396e+08 3.4051e+08  1.00%     -    1s
+     0     0 3.4053e+08    0  682 3.4396e+08 3.4053e+08  1.00%     -    2s
+     0     0 3.4054e+08    0  663 3.4396e+08 3.4054e+08  0.99%     -    2s
+     0     0 3.4055e+08    0  642 3.4396e+08 3.4055e+08  0.99%     -    2s
+     0     0 3.4055e+08    0  643 3.4396e+08 3.4055e+08  0.99%     -    2s
+     0     0 3.4066e+08    0  703 3.4396e+08 3.4066e+08  0.96%     -    2s
+H    0     0                    3.427279e+08 3.4066e+08  0.60%     -    2s
+     0     0 3.4070e+08    0  652 3.4273e+08 3.4070e+08  0.59%     -    2s
+     0     0 3.4072e+08    0  632 3.4273e+08 3.4072e+08  0.59%     -    2s
+     0     0 3.4073e+08    0  704 3.4273e+08 3.4073e+08  0.58%     -    2s
+     0     0 3.4073e+08    0  638 3.4273e+08 3.4073e+08  0.58%     -    2s
+     0     0 3.4073e+08    0  644 3.4273e+08 3.4073e+08  0.58%     -    2s
+     0     0 3.4079e+08    0  699 3.4273e+08 3.4079e+08  0.57%     -    2s
+     0     0 3.4083e+08    0  797 3.4273e+08 3.4083e+08  0.55%     -    2s
+     0     0 3.4085e+08    0  765 3.4273e+08 3.4085e+08  0.55%     -    2s
+     0     0 3.4086e+08    0  783 3.4273e+08 3.4086e+08  0.55%     -    2s
+     0     0 3.4086e+08    0  790 3.4273e+08 3.4086e+08  0.54%     -    2s
+     0     0 3.4086e+08    0  812 3.4273e+08 3.4086e+08  0.54%     -    2s
+     0     0 3.4094e+08    0  866 3.4273e+08 3.4094e+08  0.52%     -    3s
+     0     0 3.4098e+08    0  827 3.4273e+08 3.4098e+08  0.51%     -    3s
+     0     0 3.4100e+08    0  745 3.4273e+08 3.4100e+08  0.50%     -    3s
+     0     0 3.4101e+08    0  869 3.4273e+08 3.4101e+08  0.50%     -    3s
+     0     0 3.4101e+08    0  871 3.4273e+08 3.4101e+08  0.50%     -    3s
+     0     0 3.4107e+08    0  873 3.4273e+08 3.4107e+08  0.48%     -    3s
+     0     0 3.4109e+08    0  805 3.4273e+08 3.4109e+08  0.48%     -    3s
+     0     0 3.4109e+08    0  820 3.4273e+08 3.4109e+08  0.48%     -    3s
+     0     0 3.4110e+08    0  786 3.4273e+08 3.4110e+08  0.47%     -    3s
+     0     0 3.4111e+08    0  811 3.4273e+08 3.4111e+08  0.47%     -    3s
+     0     0 3.4113e+08    0  562 3.4273e+08 3.4113e+08  0.47%     -    4s
+     0     0 3.4113e+08    0  767 3.4273e+08 3.4113e+08  0.46%     -    4s
+     0     0 3.4115e+08    0  358 3.4273e+08 3.4115e+08  0.46%     -    4s
+     0     0 3.4116e+08    0  722 3.4273e+08 3.4116e+08  0.46%     -    4s
+     0     0 3.4116e+08    0  628 3.4273e+08 3.4116e+08  0.46%     -    4s
+     0     0 3.4117e+08    0  560 3.4273e+08 3.4117e+08  0.46%     -    4s
+     0     0 3.4117e+08    0  560 3.4273e+08 3.4117e+08  0.46%     -    4s
+     0     0 3.4117e+08    0   42 3.4273e+08 3.4117e+08  0.46%     -    5s
+     0     0 3.4117e+08    0  417 3.4273e+08 3.4117e+08  0.46%     -    5s
+     0     0 3.4117e+08    0  439 3.4273e+08 3.4117e+08  0.46%     -    5s
+H    0     0                    3.411960e+08 3.4117e+08  0.01%     -    5s
+     0     0 3.4117e+08    0  610 3.4120e+08 3.4117e+08  0.01%     -    5s
+     0     0 3.4117e+08    0  610 3.4120e+08 3.4117e+08  0.01%     -    5s
+
+Cutting planes:
+  Gomory: 9
+  Cover: 109
+  Clique: 155
+  MIR: 57
+  StrongCG: 4
+  Flow cover: 50
+
+Explored 1 nodes (9845 simplex iterations) in 5.82 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.41196e+08 3.42728e+08 3.43955e+08 ... 3.51598e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.411960053232e+08, best bound 3.411679948239e+08, gap 0.0082%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.47 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.44 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.28 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.06s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.42 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    1s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.40 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.04s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.33 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.05s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    0s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.37 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.08 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.52 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.53 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.02s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+     0     0 3.3886e+08    0  174 3.4032e+08 3.3886e+08  0.43%     -    0s
+H    0     0                    3.396659e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  169 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392140e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  105 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   22 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0   36 3.3921e+08 3.3888e+08  0.10%     -    1s
+     0     0 3.3888e+08    0  132 3.3921e+08 3.3888e+08  0.10%     -    1s
+H    0     0                    3.388938e+08 3.3888e+08  0.00%     -    1s
+
+Cutting planes:
+  Gomory: 8
+  Cover: 13
+  Clique: 90
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5001 simplex iterations) in 1.36 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38894e+08 3.39214e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388937603017e+08, best bound 3.388793562717e+08, gap 0.0043%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5089 simplex iterations) in 1.29 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/10/18 00:32:52
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.12s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    1s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    1s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    1s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    1s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    1s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    1s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    1s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    1s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    2s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    2s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    2s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5089 simplex iterations) in 2.55 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 10/10/18 01:20:59
+
+Academic license - for non-commercial use only
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.12s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    1s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    1s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5089 simplex iterations) in 1.39 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 242 rows, 5890 columns and 11811 nonzeros
+Model has 155 quadratic constraints
+Variable types: 0 continuous, 5890 integer (5425 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+02]
+  Objective range  [3e+03, 2e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 0 rows and 124 columns
+Presolve time: 0.03s
+Presolved: 1079 rows, 6107 columns, 40238 nonzeros
+Variable types: 0 continuous, 6107 integer (5425 binary)
+
+Root relaxation: objective 3.380689e+08, 2306 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 3.3807e+08    0   36          - 3.3807e+08      -     -    0s
+H    0     0                    3.530415e+08 3.3807e+08  4.24%     -    0s
+H    0     0                    3.434257e+08 3.3807e+08  1.56%     -    0s
+H    0     0                    3.432349e+08 3.3807e+08  1.51%     -    0s
+     0     0 3.3835e+08    0  186 3.4323e+08 3.3835e+08  1.42%     -    0s
+H    0     0                    3.427772e+08 3.3835e+08  1.29%     -    0s
+H    0     0                    3.425954e+08 3.3835e+08  1.24%     -    0s
+H    0     0                    3.423891e+08 3.3835e+08  1.18%     -    0s
+     0     0 3.3873e+08    0  202 3.4239e+08 3.3873e+08  1.07%     -    0s
+H    0     0                    3.403207e+08 3.3873e+08  0.47%     -    0s
+     0     0 3.3875e+08    0  204 3.4032e+08 3.3875e+08  0.46%     -    0s
+     0     0 3.3878e+08    0  208 3.4032e+08 3.3878e+08  0.45%     -    0s
+     0     0 3.3878e+08    0  210 3.4032e+08 3.3878e+08  0.45%     -    0s
+H    0     0                    3.396659e+08 3.3878e+08  0.26%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+     0     0 3.3886e+08    0  174 3.3967e+08 3.3886e+08  0.24%     -    0s
+H    0     0                    3.392103e+08 3.3886e+08  0.10%     -    0s
+     0     0 3.3886e+08    0  169 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0   36 3.3921e+08 3.3886e+08  0.10%     -    1s
+     0     0 3.3886e+08    0  140 3.3921e+08 3.3886e+08  0.10%     -    1s
+H    0     0                    3.388813e+08 3.3886e+08  0.01%     -    1s
+
+Cutting planes:
+  Gomory: 7
+  Cover: 13
+  Clique: 74
+  MIR: 2
+  Flow cover: 9
+
+Explored 1 nodes (5089 simplex iterations) in 1.39 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 3.38881e+08 3.3921e+08 3.39666e+08 ... 3.53041e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.388813377048e+08, best bound 3.388640879978e+08, gap 0.0051%
+Warning: variable name "x_Se_US_('US', 'DCU-00001')" has a space
+Warning: constraint name "onlyone_('US', 'US-00001')" has a space
+Warning: Q constraint name "fullfil_('US', 'DCU-00001')" has a space
+Warning: to let Gurobi read it back, use rlp format
