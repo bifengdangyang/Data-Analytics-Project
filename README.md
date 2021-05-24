@@ -13,17 +13,6 @@ R  API:  dplyr,tidyr,DMwR,ggplot2,iml,data.table
 2 ProjectCode.R 
 
 
-Domino’s Pizza Delivery
-
-Given   distributor center data(longitude, latitude ,supply capacity, distance cost $/mile); dominos  stores daily demand data: date, store id, daily pizza sales ; already opened stores information: store id, longitude, latitude, address
-•	clean dataset , process data into code 
-•	build optimization model 
-•	run model get result 
-The objective of  homework is to find cheapest distribution cost that conforms to its weekly supply and demand requirements. 
-Use Python , SQLite, Gourbi  formulate model to find out best schedule.
- Python API: sqlite3,gurobipy, haversine, pandas
-
-1 PizzaDelivery_Problem2.py 
 
 
 
