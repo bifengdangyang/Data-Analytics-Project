@@ -10,7 +10,7 @@ R  API:  dplyr,tidyr,DMwR,ggplot2,iml,data.table
 
 Files:  FINAL KD-CAC Project Presentation.pptx ,  ProjectCode.R 
 
->>>>Project 2: Domino’s Pizza Delivery (personal project)<<<<<<<<
+>>>>Project 2: Domino’s Pizza Delivery (personal project) <<<<<<<<
 
 Given the demand at each pizza distribution center (determined from the stores they serve), Dominos needs to make sure it has enough flour delivered to its distribution centers to make the necessary dough. Dominos has signed a contract with Ardent Mills to deliver flour each week. There are 40 mills scattered throughout the US that Ardent can use to supply Dominos. To meet Dominos flour specifications, Ardent must retool each of its mills that will process flour for Dominos at a cost of $700K. Find the minimum cost solution for Ardent Mills to provide Dominos its flour.
 
@@ -18,7 +18,7 @@ Assume: Straight line distance (Haversine or Vincenty) from mill to distribution
 
 Files: Files: pizza distribution file
 
->>>>>>>>>>Prject 3: car manufactor and distrubtion<<<<<<<<<<<<
+>>>> Prject 3: car manufactor and distrubtion<<<<
 The COO and CFO have determined it is inefficient to ship cars manufactured in one plant to another plant in the selling country because the cars must then be moved from that plant to the dealerships.  It is also too costly to move all cars from a plant directly to the dealerships.  Instead they have determined they want 4 distribution centers in the US, 2 in MX, and 3 in CA.  Cars will be shipped from the manufacturing plants to the appropriate distribution centers, and then from distribution centers to the dealerships.  The annual amortized cost to build the distribution centers is $300,000 for each distribution center in the US; $250,000 in MX; and $350,000 in CA.  Find the least cost solution (integrate manufacturing, transportation, and annual building costs into the solution). 
 
 Assume:
@@ -33,7 +33,7 @@ Files: car manufactor and delivery
 
 
 
->>>>NFL scheduling <<<<<<<<<<<<
+>>>>NFL scheduling <<<<
 
 Scheduling Rules (those constraints which cannot be violated):
 1)	Each game will be played exactly once during the season
