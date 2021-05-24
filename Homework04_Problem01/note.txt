@@ -1,1 +1,0 @@
-STOREID,group by center
