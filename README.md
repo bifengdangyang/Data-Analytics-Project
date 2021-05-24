@@ -1,4 +1,5 @@
 Knowledge Discovery for Crimes Against Children(Group Project) 
+
 This group project seeks to discover knowledge about crimes against children through data mining of the National Incident-Based Reporting System (NIBRS) crime data source.  The main goal is to identify the characteristics of victims, offenders, and the situational threats in which children are especially vulnerable to categories of offenses. 
  My role in the team is to 
 •	balance the unbalanced dataset
@@ -13,6 +14,7 @@ R  API:  dplyr,tidyr,DMwR,ggplot2,iml,data.table
 
 
 Domino’s Pizza Delivery
+
 Given   distributor center data(longitude, latitude ,supply capacity, distance cost $/mile); dominos  stores daily demand data: date, store id, daily pizza sales ; already opened stores information: store id, longitude, latitude, address
 •	clean dataset , process data into code 
 •	build optimization model 
