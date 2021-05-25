@@ -18,8 +18,9 @@ Assume: Straight line distance (Haversine or Vincenty) from mill to distribution
 
 Files: Files: pizza distribution 
 
+
 >>>>Project 3: car manufactor and distrubtion (personal project) <<<<
-The COO and CFO have determined it is inefficient to ship cars manufactured in one plant to another plant in the selling country because the cars must then be moved from that plant to the dealerships.  It is also too costly to move all cars from a plant directly to the dealerships.  Instead they have determined they want 4 distribution centers in the US, 2 in MX, and 3 in CA.  Cars will be shipped from the manufacturing plants to the appropriate distribution centers, and then from distribution centers to the dealerships.  The annual amortized cost to build the distribution centers is $300,000 for each distribution center in the US; $250,000 in MX; and $350,000 in CA.  Find the least cost solution (integrate manufacturing, transportation, and annual building costs into the solution). 
+    The COO and CFO have determined it is inefficient to ship cars manufactured in one plant to another plant in the selling country because the cars must then be moved from that plant to the dealerships.  It is also too costly to move all cars from a plant directly to the dealerships.  Instead they have determined they want 4 distribution centers in the US, 2 in MX, and 3 in CA.  Cars will be shipped from the manufacturing plants to the appropriate distribution centers, and then from distribution centers to the dealerships.  The annual amortized cost to build the distribution centers is $300,000 for each distribution center in the US; $250,000 in MX; and $350,000 in CA.  Find the least cost solution (integrate manufacturing, transportation, and annual building costs into the solution). 
 
 Assume:
 Straight line distance (Haversine or Vincenty) from plant to distribution center is an adequate approximation of road distance between the two points.
