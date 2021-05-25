@@ -16,7 +16,7 @@ Given the demand at each pizza distribution center (determined from the stores t
 
 Assume: Straight line distance (Haversine or Vincenty) from mill to distribution center is an adequate approximation of road distance between the two points. A truck can carry 880 50 pound sacks of flour in a single trip Each distribution center can only be serviced by a single mill You have to figure out how to convert dough to sack of flour – your professor will not provide you the conversion factor There are 3 ¼ cups of flour in each pizza dough The distribution information provided in “distributor_data.csv” is valid information concerning the distribution centers. The information for Ardent Mills locations provided in “ardent_mills_data.csv” is valid information for use in the problem The information in “average_daily_demand.csv” is valid information regarding the average store demand at each store and the correct “store to distribution center” alignment The $/mile factor in the distribution data center can be used for costing out distance between mills and centers
 
-Files: Files: pizza distribution 
+Files:  pizza distribution 
 
 
 >>>>Project 3: car manufactor and distrubtion (personal project) <<<<
