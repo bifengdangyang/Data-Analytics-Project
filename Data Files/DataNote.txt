@@ -1,0 +1,22 @@
+
+Data issues:
+
+1 
+
+in Stacked Roseter.csv ,  years of service <0 , those data are wrong, looking future ,we see it is caused by start date which can not be late  than Snapshot Date 
+
+It is not related to other task I need to do ,so I did not process it . 
+for this case ,if related task , we can either remove those wrong entries or double check with provider asking for correct data ; 
+if can not obtain correct data from provider, we may use other datas to do regression or machine learning technicals   to fix the wrong data 
+
+2  
+
+Employee education.csv 
+
+many missing values , we can observe the data and make reasonable assumption
+such as if it has degree year , then the employee received the degree even degree received column is empty 
+
+
+ 
+
+ 
